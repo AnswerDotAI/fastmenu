@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastmenu"
+  site-url: "https://AnswerDotAI.github.io/fastmenu"
+  description: "Extension library to fasthtml that makes it very simple to create custom context menus"
+  repo-branch: main
+  repo-url: "https://github.com/AnswerDotAI/fastmenu"
